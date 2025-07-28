@@ -1,2 +1,2 @@
 # QCproSidebar
-Prototype
+in development 
